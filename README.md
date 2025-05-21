@@ -1,4 +1,4 @@
-# Hey, I'm Michael!<br>Computer Engineer Apprentice, Aspiring Embedded Software Engineer
+## Hey, I'm Michael! <br>Computer Engineer Apprentice, Aspiring Embedded Software Engineer
 
 ## Personal Projects
 
