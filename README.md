@@ -3,6 +3,6 @@
 ## Personal Projects
 
 - Practicing Data Structures and Algorithms
-- Travelling Salesman Problem
+- Travelling Salesman Problem (https://github.com/michael162188/TSP)
 - Fibonacci Sequence Using RV32I Instructions
 - Building My Own Redis server (in progress)
