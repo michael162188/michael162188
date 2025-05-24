@@ -1,4 +1,5 @@
-<h1>Hey, I'm Michael! <br>Computer Engineer Apprentice, Aspiring Embedded Software Engineer</h1>
+<h1>About Me</h1>
+<p>Hey, I'm Michael Pollard! I am a college student, dual majoring in Computer Information Systems and Engineering, and I currently work as a Computer Engineer Apprentice. In the last two years, I have worked with C/C++, Java, and Python. My dream job is an Embedded Software Engineer.</p>
 
 <h2>Personal Projects</h2>
 
