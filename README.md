@@ -4,5 +4,9 @@
 
 <ul>
 <li><a href="https://github.com/michael162188/TSP">Travelling Salesman Problem</a></li>
-<li>Data Structures and Algorithms in C</li>
+<li>Build my own Redis (in progress)</li>
+<li>Neural Network (in progress)</li>
+<li>Video Game (in progress)</li>
+<li>Algorithm Visualizer (in progress)</li>
+<li>Build my own Real-Time Operating System (RTOS)</li>
 </ul>
