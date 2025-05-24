@@ -9,5 +9,4 @@
 <li>Neural Network (in progress)</li>
 <li>Video Game (in progress)</li>
 <li>Algorithm Visualizer (in progress)</li>
-<li>Real-Time Operating System (RTOS)</li>
 </ul>
