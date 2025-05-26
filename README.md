@@ -5,7 +5,7 @@
 
 <ul>
 <li><a href="https://github.com/michael162188/TSP">Travelling Salesman Problem</a></li>
-<li>Text Editor (in progress)</li>
+<li><a href="https://github.com/michael162188/mp-text">Text Editor (in progress)</a></li>
 <li>Redis Server(in progress)</li>
 <li>Algorithm Visualizer (in progress)</li>
 </ul>
