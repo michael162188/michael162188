@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<p>Hey, I'm Michael Pollard! I am a college student, dual majoring in Computer Information Systems and Engineering, and I currently work as a Computer Engineer Apprentice. In the last two and a half years, I have worked with C, Java, and Python. My dream job is an Embedded Software Engineer.</p>
+<p>Hey, I'm Michael Pollard! I am a college student, majoring in Computer Information Systems, and I currently work as a Computer Engineer Apprentice. In the last two and a half years, I have worked with C, Java, and Python. My dream job is to be an Embedded Software Engineer.</p>
 
 <h2>Personal Projects</h2>
 
